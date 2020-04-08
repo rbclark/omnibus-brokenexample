@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary brokencache removal steps
+# after package is uninstalled.
+#
+
+echo "brokencache has been uninstalled!"
+
+exit 0
